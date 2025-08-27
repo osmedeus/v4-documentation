@@ -38,10 +38,3 @@ USDC (Solana): 73XybrFZN5HixnPvgT7YG3r7tVWh2rKZVmNZGuZPFJwi
 SOL (Solana): 6w4kMFhS61VGVvgxW29sdC3jnzbAFpP2Cpcd4UJXVSZc
 ```
 
-## For People in My local country
-
-<figure markdown> 
-    ![momo-and-zalopay](static/donation/local-country.png)
-</figure>
-
-
